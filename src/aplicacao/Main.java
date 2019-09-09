@@ -11,6 +11,7 @@ public class Main {
 		Tabuleiro t = new Tabuleiro(20,20);
 		System.out.println(p);
 		System.out.println(t);
+		System.out.println("asd");
 	}
 
 }
